@@ -11,4 +11,4 @@ For guidance on installing the Veracode Workflow Application and additional info
 https://docs.veracode.com/r/GitHub_Workflow_Integration_for_Repo_Scanning
 new test
 sde
-sdet 
+sdet 2
